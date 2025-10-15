@@ -95,15 +95,10 @@ Our solution successfully identified bent wires with high accuracy while filteri
 ![Reconstruction Error Analysis](assets/reconstruction_error_analysis.png)
 *Distribution of reconstruction errors across all images with outlier detection (left) and statistical box plot showing top 9 anomalies (right)*
 
-### Anomaly Detection Results
-
-![Anomaly Detection](assets/anomaly_detection_results.png)
-*Statistical analysis showing detected anomalies above threshold (mean + 3σ)*
-
 ### Heatmap Visualization
 
 ![Heatmap](assets/heatmap_visualization.png)
-*Left: Original image with bent wire overlay | Right: Raw reconstruction error heatmap*
+*Top 9 bent wire anomalies with heatmap overlays showing detected anomalous regions*
 
 ### Top Anomalies Grid
 
