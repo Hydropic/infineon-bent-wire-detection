@@ -1,0 +1,16 @@
+# Core Dependencies
+numpy>=1.21.0
+matplotlib>=3.4.0
+Pillow>=9.0.0
+tqdm>=4.62.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+scipy>=1.7.0
+scikit-image>=0.19.0
+
+# Optional: For GPU support
+# Install CUDA-enabled PyTorch from: https://pytorch.org/get-started/locally/
